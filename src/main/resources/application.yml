@@ -1,0 +1,9 @@
+togglz:
+  console:
+    secured: false
+  features-file: 'file:\\C:\Users\Cristian\OneDrive\Documentos\var_access'
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'togglz'
